@@ -12,7 +12,7 @@
     "method" : "ewclora",
     "optimizer" : "adam",
     "scheduler" : "cosine",
-    "epochs" : 20,
+    "epochs" : 10,
     "lrate" : 0.0005,
     "fc_lrate" : 0.005,
     "weight_decay" : 0.0,
